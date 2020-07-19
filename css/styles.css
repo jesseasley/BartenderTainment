@@ -1,0 +1,106 @@
+﻿.redbody
+{
+	background-color: #A00000
+}
+.red
+{
+    color: #FF0D0E; 
+}
+.darkgrey
+{
+    color: #3B3C3B;
+}
+.peach
+{
+    color: #EACFCF;
+}
+.green
+{
+    color: #8CB38D;
+}
+.menu
+{
+	font-family: Arial; 
+	font-size: 18pt; 
+	color: #FFFFFF; 
+	font-weight: bold
+}
+.bigbuttons
+{
+	font-family: Arial; 
+	font-size: 16pt; 
+	color: #FFFFFF; 
+	font-weight: bold; 
+	width:200px; 
+	text-align:center; 
+	background-image:url('../images/big_button.jpg')
+}
+.menubuttons
+{
+	font-family: Arial; 
+	font-size: 13pt; 
+	color: #FFFFFF; 
+	font-weight: bold; 
+	width:160px; 
+	text-align:center; 
+	background-image:url('../images/small_button.jpg'); 
+	height:26px
+}
+.login
+{
+	font-family: Arial; 
+	font-size: 10pt; 
+	color: #FFFFFF; 
+	font-weight: bold
+}
+.text 
+{
+	font-family: Arial; 
+	font-size: 10pt; 
+	color: #333333; 
+	font-weight: bold
+}
+.callnow
+{
+	font-family: Arial; 
+	font-size: 14pt; 
+	color: #333333; 
+	font-weight: bold; 
+	text-align:center
+}
+.sectionheading
+{
+	font-family: Arial; 
+	font-size: 14pt; 
+	color: #333333; 
+	font-weight: bold; 
+}
+.mainbody
+{
+	background-color: #FFFFFF
+}
+A
+{
+	text-decoration:none;
+	color: #FFFFFF; 
+}
+.bluelink         
+{ 
+	color: #FFFFFF; 
+	font-weight: normal;
+	font-size: 9pt;
+}
+.hovertext
+{
+	font-family: Arial; 
+	font-size: 12pt; 
+	color: #333333; 
+	font-weight: bold
+}
+:hover.hovertext
+{
+	font-family: Arial; 
+	font-size: 12pt; 
+	color: #FF0D0E; 
+	font-weight: bold
+}
